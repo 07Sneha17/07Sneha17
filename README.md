@@ -88,7 +88,12 @@ Responsive clone of the Coding Ninjas website.
 - Tailwind CSS
 
 ---
+### Personal Portfolio
+My portfolio website showcasing my projects, skills, and development journey.
 
+🌐 Portfolio: [Visit my live portfolio](https://portfolio-tau-wheat-p7l4xvv3as.vercel.app)
+ ---
+ 
 ## 🌱 Currently Learning
 
 ✔ Data Structures & Algorithms (Java)
